@@ -1,1 +1,1 @@
-# Simulator
+# Simulator pentru gestiunea stocurilor
